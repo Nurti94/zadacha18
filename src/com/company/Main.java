@@ -32,8 +32,8 @@ public class Main {
         }Arenda arenda1=new Obshaga("***Kishi sany***");
         System.out.println(arenda1);
         System.out.println(country1);
-        arenda.many();
-        arenda.address();
+        arenda1.many();
+        arenda1.address();
         System.out.println("____________________________");
         System.out.println("     ***HOTEL***");
      Person person4=new Hotel("    Nurbek");
@@ -46,8 +46,8 @@ public class Main {
         }Arenda arenda2=new Hotel("Kishi sany");
         System.out.println(arenda2);
         System.out.println(country2);
-        arenda.many();
-        arenda.address();
+        arenda2.many();
+        arenda2.address();
 
 
 
